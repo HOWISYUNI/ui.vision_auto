@@ -1,4 +1,0 @@
-hello癤풱tatus=OK
-###
-[status] Playing macro test
-[info] Macro completed (Runtime 0.03s)
